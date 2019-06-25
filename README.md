@@ -223,6 +223,7 @@ https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
 
 https://www.udemy.com/spring-core-devops-on-aws/
 
+https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/
 https://www.udemy.com/docker-for-java-developers/
 
 https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
