@@ -114,19 +114,17 @@ https://www.udemy.com/java-ee-rest-com-jax-rs/
 https://www.udemy.com/java-ee-soap-com-jax-ws/
 
 
-8- Spring (Boot, Data AOP, MVC, CLOUD)
+8- Spring (Boot, Data AOP, MVC, CLOUD, AOP)
 
 Algaworks Fullstack Angular Spring
 https://cafe.algaworks.com/sfe
  Algaworks Spring Frameworks Experts
 https://cafe.algaworks.com/fsas
 
-
 DEVDOJO Spring Boot Microservices
 https://www.youtube.com/playlist?list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl
 -Mão na Massa: Construindo um sistema
 https://www.youtube.com/playlist?list=PL62G310vn6nFmOfLeeaYq20Gm7Vav7Aib
-
 
 https://www.udemy.com/spring-tutorial-for-beginners/
 
@@ -159,6 +157,8 @@ https://www.udemy.com/restful-springboot-aws/
 https://www.udemy.com/spring-boot-mvc-com-spring-security/
 
 https://www.udemy.com/spring-boot-mvc-com-ajax/
+
+https://www.udemy.com/spring-boot-microservices-and-spring-cloud/
 
   
   Documentation
@@ -226,6 +226,10 @@ https://www.udemy.com/course/certified-kubernetes-application-developer/
 
 https://www.udemy.com/devops-and-continuous-integration-with-jenkins-pipelines/
 
+https://www.udemy.com/kubernetes-microservices/
+
+https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/
+
 https://www.udemy.com/aws-certified-associate-architect-developer-sysops-admin/
 
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
@@ -242,7 +246,6 @@ https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 Docker Crash Course for busy DevOps and Developers | Udemy
 https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/
 
-https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/
 
 Docker Certified Associate 2019 | Udemy
 https://www.udemy.com/docker-certified-associate/
@@ -255,6 +258,8 @@ https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/
 https://www.udemy.com/aws-certified-developer-associate-dva-c01/
 
 https://www.udemy.com/aws-developer/?deal_code=UDEAFFFJ619&ranMID=39197&ranEAID=LtOw5vJl/HM&ranSiteID=LtOw5vJl_HM-KQDd10zG3Lh23R2uu1J3CQ&LSNPUBID=LtOw5vJl/HM
+
+https://www.udemy.com/learn-docker/
 
 
 BIG DATA JAVA
