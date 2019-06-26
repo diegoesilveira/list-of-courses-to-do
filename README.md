@@ -6,7 +6,7 @@ Courses already done and courses to do
 
 Java Developer FullStack
 
-1 - Algoritmo e logica 
+1 - Algorithm and Logic
 
 https://www.udemy.com/java-curso-logica-de-programacao/
 
@@ -15,7 +15,7 @@ https://www.udemy.com/algoritmos-programacao-em-java-10/
 https://www.udemy.com/algoritmos-e-logica-de-programacao-essencial/
 
 
-2 -Java 8 basico a avançado 
+2 -Java 8 Basic and advanced 
 
 Maratona Java DevDojo 210 Video Aulas
 https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
@@ -39,7 +39,7 @@ https://www.udemy.com/collections-and-concurrent-collection-video-lectures-and-t
 https://www.udemy.com/parallel-streams-with-code/
 
 
-3- Estrutura de dados e algoritimo
+3- Data structure and algorithm
 
 https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/?couponCode=LPA-DATA-STRUCT
 
@@ -48,13 +48,13 @@ https://www.udemy.com/data-structures-and-algorithms-bootcamp/
 https://www.udemy.com/practical-data-structures-algorithms-in-java/
 
 
-4 -Modelagem UML
+4 -UML Modeling
 
 https://www.udemy.com/uml-diagrama-de-classes/
 
 
 
-5 -Designer Patterns e Solid
+5 -Designer Patterns and Solid
 
 
 https://www.udemy.com/design-patterns-in-java-concepts-hands-on-projects/
@@ -90,7 +90,7 @@ https://www.udemy.com/course/curso-web/
 https://www.udemy.com/curso-bootstrap-4-e-jquery-desenvolvimento-web-responsivo/
 
 
-5- JSF basico a avançado 
+5- JSF Basic and advanced 
 Algaworks Desenvolvimento Web com JSF 2
 https://www.algaworks.com/curso/desenvolvimento-web-com-jsf-2/
 
@@ -161,12 +161,19 @@ https://www.udemy.com/spring-boot-mvc-com-spring-security/
 https://www.udemy.com/spring-boot-mvc-com-ajax/
 
   
-  Documentação
+  Documentation
   
 https://www.udemy.com/microservices-rest-com-swagger-na-pratica/
 
 https://www.udemy.com/restful-apis/
+
+
+  WebServer
+
+Apache WebServer: do Básico ao Avançado
+https://www.udemy.com/apache-webserver-do-basico-ao-avancado/
   
+
   
 10-Tokens JWT e Ouath2 
 
@@ -187,7 +194,7 @@ https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
 https://www.udemy.com/design-patterns-javascript/
 
 
-12-Angular basico ao avançado 
+12-Angular Basic and advanced 
 
 Curso de Angular LOIANE aulas compatíveis com Angular v2, v4, v5 e v6 e v7 
 https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
@@ -208,6 +215,8 @@ https://www.udemy.com/mysql-developer-expert/
 
 https://www.udemy.com/oracle-developer-sql-e-plsql/
 
+https://www.udemy.com/the-complete-sql-bootcamp/
+
 
 13- DevOps (docker, kubernetes, jekins, aws)
 
@@ -220,6 +229,8 @@ https://www.udemy.com/devops-and-continuous-integration-with-jenkins-pipelines/
 https://www.udemy.com/aws-certified-associate-architect-developer-sysops-admin/
 
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
+
+https://www.udemy.com/docker-introducao-a-administracao-de-containers/
 
 https://www.udemy.com/spring-core-devops-on-aws/
 
@@ -246,3 +257,18 @@ https://www.udemy.com/aws-certified-developer-associate-dva-c01/
 https://www.udemy.com/aws-developer/?deal_code=UDEAFFFJ619&ranMID=39197&ranEAID=LtOw5vJl/HM&ranSiteID=LtOw5vJl_HM-KQDd10zG3Lh23R2uu1J3CQ&LSNPUBID=LtOw5vJl/HM
 
 
+BIG DATA JAVA
+
+https://www.udemy.com/apache-spark-for-java-developers/
+
+https://www.udemy.com/the-ultimate-apache-spark-with-java-course-hands-on/
+
+https://www.udemy.com/apache-spark-20-java-do-big-data-analytics-ml/
+
+https://www.udemy.com/apache-spark-course-with-java/
+
+https://www.udemy.com/fundamentos-de-big-data-com-hadoop/?src=sac&kw=hadoop
+
+https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/
+
+https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
