@@ -259,6 +259,8 @@ https://www.udemy.com/aws-developer/?deal_code=UDEAFFFJ619&ranMID=39197&ranEAID=
 
 BIG DATA JAVA
 
+https://www.udemy.com/course/apache-kafka/
+
 https://www.udemy.com/apache-spark-for-java-developers/
 
 https://www.udemy.com/the-ultimate-apache-spark-with-java-course-hands-on/
@@ -272,3 +274,6 @@ https://www.udemy.com/fundamentos-de-big-data-com-hadoop/?src=sac&kw=hadoop
 https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/
 
 https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
+
+Courses Apache Kafka and aws
+https://www.udemy.com/user/stephane-maarek/
