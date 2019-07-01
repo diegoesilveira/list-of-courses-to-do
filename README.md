@@ -217,6 +217,8 @@ https://www.udemy.com/oracle-developer-sql-e-plsql/
 
 https://www.udemy.com/the-complete-sql-bootcamp/
 
+https://www.udemy.com/oracle-plsql-fundamentals-vol-i-ii/
+
 
 13- DevOps (docker, kubernetes, jekins, aws)
 
