@@ -1,5 +1,5 @@
-# list-of-courses-to-do-and-to-do
-list of courses to do and to do
+
+list of courses to do
 
 Courses already done and courses to do
 
@@ -17,7 +17,7 @@ https://www.udemy.com/algoritmos-e-logica-de-programacao-essencial/
 
 2 -Java 8 Basic and advanced 
 
-Maratona Java DevDojo 210 Video Aulas
+marathon java 210 videos lessons
 https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
 
 https://www.udemy.com/java-the-complete-java-developer-course/
@@ -91,8 +91,13 @@ https://www.udemy.com/curso-bootstrap-4-e-jquery-desenvolvimento-web-responsivo/
 
 
 5- JSF Basic and advanced 
+DEVDOJO marathon JSF
+https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J
+
 Algaworks Desenvolvimento Web com JSF 2
 https://www.algaworks.com/curso/desenvolvimento-web-com-jsf-2/
+
+
 
 
 6- JPA e Hibernate
@@ -142,8 +147,6 @@ https://www.udemy.com/restful-apis-do-0-a-nuvem-com-springboot-e-docker/
 
 https://www.udemy.com/webservices-soap-com-spring-boot-jpa/
 
-https://www.udemy.com/spring-boot-mvc-com-thymeleaf/
-
 https://www.udemy.com/hibernate-jpa-tutorial-for-beginners-in-100-steps/
 
 https://www.udemy.com/spring-web-services-tutorial/
@@ -154,11 +157,16 @@ https://www.javaavancado.com/spring-boot-na-aws-com-docker/index.html
 
 https://www.udemy.com/restful-springboot-aws/
 
-https://www.udemy.com/spring-boot-mvc-com-spring-security/
+https://www.udemy.com/spring-boot-mvc-com-thymeleaf/
 
 https://www.udemy.com/spring-boot-mvc-com-ajax/
 
+https://www.udemy.com/spring-boot-mvc-com-spring-security/
+
 https://www.udemy.com/spring-boot-microservices-and-spring-cloud/
+
+https://www.udemy.com/springboot-essencial/
+
 
   
   Documentation
