@@ -118,6 +118,10 @@ https://www.udemy.com/java-ee-rest-com-jax-rs/
 
 https://www.udemy.com/java-ee-soap-com-jax-ws/
 
+https://www.udemy.com/java-jee-datasource
+
+https://www.udemy.com/introducao-a-arquitetura-de-software-com-java
+
 
 8- Spring (Boot, Data AOP, MVC, CLOUD, AOP)
 
@@ -174,13 +178,6 @@ https://www.udemy.com/springboot-essencial/
 https://www.udemy.com/microservices-rest-com-swagger-na-pratica/
 
 https://www.udemy.com/restful-apis/
-
-
-  WebServer
-
-Apache WebServer: do Básico ao Avançado
-https://www.udemy.com/apache-webserver-do-basico-ao-avancado/
-  
 
   
 10-Tokens JWT e Ouath2 
